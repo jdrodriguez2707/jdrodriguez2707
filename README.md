@@ -1,7 +1,7 @@
 # Hi, I'm Johan 👋🏻
 
 ## 💫 About Me:
-I'm a software developer focused on web development, and I'm always learning! 🚀👨🏻‍💻<br>I love creating projects that solve real-world problems and reflect my interests.<br>Currently, I'm improving my JavaScript skills and exploring creative designs with CSS.<br>I'm also actively looking for new job opportunities, so feel free to reach out if you have any openings!
+I'm a software developer focused on web development, and I'm always learning! <br>I love creating projects that solve real-world problems and reflect my interests 🚀👨🏻‍💻. <br> Always attentive to new trends, I use the latest technologies and AI to improve my software programming skills 🤖.
 
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Johan79854000) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/johan_rodriguez_dev) 
